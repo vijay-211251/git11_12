@@ -1,3 +1,0 @@
-first one is read.me 
-hello this is demo.txt massage
-this is 2nd file
